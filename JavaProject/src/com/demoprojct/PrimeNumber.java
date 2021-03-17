@@ -4,7 +4,7 @@ public class PrimeNumber {
 
 	public static void main(int num) {
 	
-		
+		// This is to check after making changes how it works
 		int x = 5;
 		
 		int remainder = x % 2;
